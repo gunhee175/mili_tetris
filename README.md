@@ -1,1 +1,1 @@
-# mili_tatris
+# mili_tetris
